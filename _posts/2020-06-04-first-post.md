@@ -18,4 +18,4 @@ But soon, I was facing big (for me) hurdles: I had to learn how to use a databas
 
 When Lijn is production ready, I plan to release it to the App Store, while still open sourcing it. I hope to release an app that's as fast and beautiful as [NetNewsWire](http://netnewswireapp.com/).
 
-To keep my head out of the water, I use a shared Kanban Board. If you see something that shouldn't be there, or that I've made a mistake somewhere, don't hesitate to email me!
+To keep my head out of the water, I use a shared [Kanban Board](https://www.notion.so/81e708846e5c4bc2a5afddb66ae256a6?v=2401cf6544d14d49b37b9ddba2ad5e16). If you see something that shouldn't be there, or that I've made a mistake somewhere, don't hesitate to email me!
