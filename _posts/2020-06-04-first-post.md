@@ -2,7 +2,7 @@
 layout: post
 title: First Post
 subtitle: Why blogging?
-gh-repo: daattali/beautiful-jekyll
+gh-repo: bengrina/lijn
 gh-badge: [star, fork, follow]
 tags: [programming, projects]
 comments: true
