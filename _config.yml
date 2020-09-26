@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: School Spirit
+title: Aymane Bengrina
 
 # Short description of your site
 description: Blog d'Aymane Bengrina / Aymane Bengrina's blog
@@ -13,6 +13,7 @@ author: Aymane Bengrina
 
 navbar-links:
   About Me: "aboutme"
+  CV: "https://bengrina.github.io/markdown-cv/"
 
 # --- Logo --- #
 
